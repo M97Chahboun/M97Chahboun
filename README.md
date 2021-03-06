@@ -1,4 +1,4 @@
-### Hi there 👋
+### Assalam ulaykum, Hi there 👋
 
 <!--
 **M97Chahboun/M97Chahboun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m97chahboun&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m97chahboun)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=m97chahboun&repo=repo-name&m97chahboun=true)](https://github.com/m97chahboun/repo-name)
+![Mohammed GitHub stats](https://github-readme-stats.vercel.app/api?username=m97chahboun)
