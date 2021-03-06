@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m97chahboun)](https://github.com/m97chahboun/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m97chahboun)](https://github.com/m97chahboun/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m97chahboun)
