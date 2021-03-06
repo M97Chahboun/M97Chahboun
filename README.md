@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dart Languages](https://github.com/github/explore/blob/main/topics/dart/dart.png)
-
-
-![Pyhon Languages](https://github.com/github/explore/blob/main/topics/python/python.png)
-
-![Javascript Languages](https://github.com/github/explore/blob/main/topics/javascript/javascript.png)
+![Dart Languages](https://github.com/github/explore/blob/main/topics/dart/dart.png) ![Pyhon Languages](https://github.com/github/explore/blob/main/topics/python/python.png) ![Javascript Languages](https://github.com/github/explore/blob/main/topics/javascript/javascript.png)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m97chahboun&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m97chahboun)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=m97chahboun&repo=repo-name&m97chahboun=true)](https://github.com/yourusername/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=m97chahboun&repo=repo-name&m97chahboun=true)](https://github.com/m97chahboun/repo-name)
