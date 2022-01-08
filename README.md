@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [mc](https://github.com/OurFlutterC/mc)
 
-- 👨‍💻 All of my projects are available at [Mohammed Chahboun](M97chahboun), [Zakat of knowledge](ZakatKnowledge), [Our flutter](OurFlutterC)
+- 👨‍💻 All of my projects are available at [Mohammed Chahboun](https://github.com/M97chahboun), [Zakat of knowledge](https://github.comZakatKnowledge), [Our flutter](https://github.com/OurFlutterC)
 
 - 💬 Ask me about **python, javacript, dart, django, flutter...**
 
