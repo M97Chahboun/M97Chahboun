@@ -5,13 +5,13 @@
 
 ---
 
-## 🧑 About me
+## About me
 
-- 👨🏽‍💻 I’m currently working in [Majara](https://www.linkedin.com/company/majaracapital)
-- 👨🏽‍💻 All my codes on [Zakat of knowledge](https://github.com/ZakatKnowledge) && [Our flutter Community](https://github.com/OurFlutterC)
-- 👀 I’m Interested in ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- 💞️ Ask me about mobile and web development, I am happy to help 🤝
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/m97chahboun), [Facebook](https://www.facebook.com/m97chahboun) or [Mail](mailto:mchahboun@majaracapital.com)
+- I’m currently working in [Majara](https://www.linkedin.com/company/majaracapital)
+- All my codes on [Zakat of knowledge](https://github.com/ZakatKnowledge) && [Our flutter Community](https://github.com/OurFlutterC)
+- I’m Interested in ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- Ask me about mobile and web development, I am happy to help 🤝
+- You can reach me via [LinkedIn](https://www.linkedin.com/in/m97chahboun), [Facebook](https://www.facebook.com/m97chahboun) or [Mail](mailto:mchahboun@majaracapital.com)
 
 ---
 
