@@ -1,7 +1,7 @@
 # Assalam ulaykum 👋 , I'm a [Software Developer](https://github.com/m97chahboun)
 
 
-![](https://img.shields.io/badge/Mobile-Developer-sucess)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Exp-4+yrs-orange) ![Recent Profile Views](https://komarev.com/ghpvc/?username=m97chahboun)
+![](https://img.shields.io/badge/Mobile-Developer-sucess)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Django-intermediate-green) ![](https://img.shields.io/badge/Exp-4+yrs-orange) ![Recent Profile Views](https://komarev.com/ghpvc/?username=m97chahboun)
 
 ---
 
