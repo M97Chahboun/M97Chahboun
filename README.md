@@ -20,9 +20,14 @@
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m97chahboun&theme=github_dark)
 
-### Github Stats
+## &#x1f4c8; GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=m97chahboun&hide_border=true&count_private=true&show_icons=true&theme=radical)
+<a href="https://github.com/Sboursen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M97Chahboun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Moahmmed's GitHub Stats" />
+</a>
+<a href="https://github.com/Sboursen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M97Chahboun&hide=html,css,Jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 ### Github Streaks
 
