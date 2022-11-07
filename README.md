@@ -16,6 +16,24 @@
 
 ---
 
+## My ❤️ Open source ❤️ Projects
+
+### Ruby ❤️
+- [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
+### Dart 💙
+- [Github snitch](https://github.com/M97Chahboun/github_snitch) flutter package for report issues & proposals to project repo (Flutter)
+- [MVCRocket](https://github.com/JahezAcademy/mvc_rocket) flutter package for stae managment & request (Flutter)
+- [Flutter CI/CD & Branching template](https://github.com/M97Chahboun/flutter_ci_cd) (Flutter)
+- [Rocket2Dart](https://github.com/JahezAcademy/rocket2dart) website for convert json data to model appropriate with MVCRocket package (Flutter)
+- [medill](https://github.com/M97Chahboun/medill) A minimalistic, easy backend framework for Dart (native)
+- [puzzle](https://github.com/M97Chahboun/puzzle_hack) hack puzzle game for flutter hackthon (Flutter)
+### Python 💛
+- [McPython](https://github.com/M97Chahboun/McPython) simple editor of codes support python & dart language (PyQt5)
+- [API Maker](https://github.com/M97Chahboun/Api-Maker) Software for create API based on Django Rest framework by GUI (PyQt5 & Django)
+- [McScrpGUI](https://github.com/M97Chahboun/McScrpGUI) Software for convert website to excel,csv format for scraping data easily (PyQt5)
+- [McScraping](https://github.com/M97Chahboun/McScraping) Python library for scraping data (native)
+- [Mailmerge](https://github.com/M97Chahboun/Mailmerge-with-pyqt5) Software for convert excel to forms (PyQt5)
+
 ### Github Details
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m97chahboun&theme=github_dark)
