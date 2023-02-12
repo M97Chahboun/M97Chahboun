@@ -22,7 +22,7 @@
 - [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
 ### Dart 💙
 - [Github snitch](https://github.com/M97Chahboun/github_snitch) flutter package for report issues & proposals to project repo (Flutter)
-- [MVCRocket](https://github.com/JahezAcademy/mvc_rocket) flutter package for stae managment & request (Flutter)
+- [MVCRocket](https://github.com/JahezAcademy/mvc_rocket) flutter package for state managment & request (Flutter)
 - [Flutter CI/CD & Branching template](https://github.com/M97Chahboun/flutter_ci_cd) (Flutter)
 - [Rocket2Dart](https://github.com/JahezAcademy/rocket2dart) website for convert json data to model appropriate with MVCRocket package (Flutter)
 - [medill](https://github.com/M97Chahboun/medill) A minimalistic, easy backend framework for Dart (native)
