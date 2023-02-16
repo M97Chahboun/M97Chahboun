@@ -21,6 +21,7 @@
 ### Ruby ❤️
 - [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
 ### Dart 💙
+- [Controllable Widget](https://github.com/M97Chahboun/controllable_widget) Package for make widget controllable (Flutter)
 - [Github snitch](https://github.com/M97Chahboun/github_snitch) flutter package for report issues & proposals to project repo (Flutter)
 - [MVCRocket](https://github.com/JahezAcademy/mvc_rocket) flutter package for state managment & request (Flutter)
 - [Flutter CI/CD & Branching template](https://github.com/M97Chahboun/flutter_ci_cd) (Flutter)
