@@ -18,8 +18,6 @@
 
 ## My ❤️ Open source ❤️ Projects
 
-### Ruby ❤️
-- [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
 ### Dart 💙
 - [Controllable Widget](https://github.com/M97Chahboun/controllable_widget) Package for make widget controllable (Flutter)
 - [Github snitch](https://github.com/M97Chahboun/github_snitch) flutter package for report issues & proposals to project repo (Flutter)
@@ -34,6 +32,12 @@
 - [McScrpGUI](https://github.com/M97Chahboun/McScrpGUI) Software for convert website to excel,csv format for scraping data easily (PyQt5)
 - [McScraping](https://github.com/M97Chahboun/McScraping) Python library for scraping data (native)
 - [Mailmerge](https://github.com/M97Chahboun/Mailmerge-with-pyqt5) Software for convert excel to forms (PyQt5)
+
+### Ruby ❤️
+- [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
+
+### Typescript 💙
+- [Branch Timer](https://github.com/M97Chahboun/vscode-branch-timer) Vscode extension for track work duration on every branch (vscode extension API)
 
 ### Github Details
 
