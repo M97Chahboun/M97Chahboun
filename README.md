@@ -26,12 +26,14 @@
 - [Rocket2Dart](https://github.com/JahezAcademy/rocket2dart) website for convert json data to model appropriate with MVCRocket package (Flutter)
 - [medill](https://github.com/M97Chahboun/medill) A minimalistic, easy backend framework for Dart (native)
 - [puzzle](https://github.com/M97Chahboun/puzzle_hack) hack puzzle game for flutter hackthon (Flutter)
+- [Navigation Bar Bro](https://pub.dev/packages/navigationbar_bro) A Flutter package for easy implementation of navigation bar with infinity of pages. (flutter)
 ### Python 💛
 - [McPython](https://github.com/M97Chahboun/McPython) simple editor of codes support python & dart language (PyQt5)
 - [API Maker](https://github.com/M97Chahboun/Api-Maker) Software for create API based on Django Rest framework by GUI (PyQt5 & Django)
 - [McScrpGUI](https://github.com/M97Chahboun/McScrpGUI) Software for convert website to excel,csv format for scraping data easily (PyQt5)
 - [McScraping](https://github.com/M97Chahboun/McScraping) Python library for scraping data (native)
 - [Mailmerge](https://github.com/M97Chahboun/Mailmerge-with-pyqt5) Software for convert excel to forms (PyQt5)
+- [Memorize game](https://github.com/ZakatKnowledge/MyGameWithPyQtInAndroid) My First game (Pyqt5)
 
 ### Ruby ❤️
 - [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
