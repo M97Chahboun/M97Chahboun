@@ -33,6 +33,7 @@
 - [McScrpGUI](https://github.com/M97Chahboun/McScrpGUI) Software for convert website to excel,csv format for scraping data easily (PyQt5)
 - [McScraping](https://github.com/M97Chahboun/McScraping) Python library for scraping data (native)
 - [Mailmerge](https://github.com/M97Chahboun/Mailmerge-with-pyqt5) Software for convert excel to forms (PyQt5)
+- [Traduction website](https://github.com/ZakatKnowledge/translateWebSiteWithDjango2) Traduction website support arabic to english and inverse (Django)
 - [Memorize game](https://github.com/ZakatKnowledge/MyGameWithPyQtInAndroid) My First game (Pyqt5)
 
 ### Ruby ❤️
