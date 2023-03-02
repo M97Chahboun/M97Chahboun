@@ -26,6 +26,7 @@
 - [Rocket2Dart](https://github.com/JahezAcademy/rocket2dart) website for convert json data to model appropriate with MVCRocket package (Flutter)
 - [medill](https://github.com/M97Chahboun/medill) A minimalistic, easy backend framework for Dart (native)
 - [puzzle](https://github.com/M97Chahboun/puzzle_hack) hack puzzle game for flutter hackthon (Flutter)
+- [Advent of code 2022](https://github.com/M97Chahboun/advent_of_code_2022) Solve [Advent of code puzzles](https://adventofcode.com/2022/about) (native)
 - [Navigation Bar Bro](https://pub.dev/packages/navigationbar_bro) A Flutter package for easy implementation of navigation bar with infinity of pages. (flutter)
 ### Python 💛
 - [McPython](https://github.com/M97Chahboun/McPython) simple editor of codes support python & dart language (PyQt5)
