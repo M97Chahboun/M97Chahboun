@@ -1,12 +1,14 @@
-# Assalam ulaykum 👋 , I'm a [Software Developer](https://github.com/m97chahboun)
+![assalamualaikum-png-44084](https://user-images.githubusercontent.com/69054810/223467885-09089c94-bbc9-4cdd-8754-0ba5e0c9c07f.png)
 
+
+# I'm a [Software Developer](https://github.com/m97chahboun)
+My hobby is contribute to open source projects 💙
 
 ![](https://img.shields.io/badge/Mobile-Developer-sucess)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Django-intermediate-green) ![](https://img.shields.io/badge/Exp-4+yrs-orange) ![Recent Profile Views](https://komarev.com/ghpvc/?username=m97chahboun)
 
 ---
 
 ## About me
-
 - I’m currently working in [Majara](https://www.linkedin.com/company/majaracapital)
 - All my codes on [Zakat of knowledge](https://github.com/ZakatKnowledge) && [Our flutter Community](https://github.com/OurFlutterC)
 - I’m Interested in ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
