@@ -44,6 +44,7 @@ My hobby is contribute to open source projects 💙
 
 ### Typescript 💙
 - [Branch Timer](https://github.com/M97Chahboun/vscode-branch-timer) Vscode extension for track work duration on every branch (vscode extension API)
+- [Todo App](https://github.com/M97Chahboun/first-angular-project-todo) Todo App (Angular)
 
 ### Github Details
 
