@@ -49,6 +49,7 @@ My hobby is contribute to open source projects 💙
 - [Mailmerge](https://github.com/M97Chahboun/Mailmerge-with-pyqt5) Software for convert excel to forms (PyQt5)
 - [Traduction website](https://github.com/ZakatKnowledge/translateWebSiteWithDjango2) Traduction website support arabic to english and inverse (Django)
 - [Memorize game](https://github.com/ZakatKnowledge/MyGameWithPyQtInAndroid) My First game (Pyqt5)
+- [Landing page template](https://github.com/M97Chahboun/dj_landing_page_template) (Django)
 
 ### Ruby ❤️
 - [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
