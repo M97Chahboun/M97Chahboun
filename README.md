@@ -2,7 +2,6 @@
 
 
 # I'm a [Senior Software Engineer](https://github.com/m97chahboun)
-My hobby is contribute to open source projects 💙
 
 ![](https://img.shields.io/badge/Cross-Platform-Developer) ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Django-intermediate-green) ![](https://img.shields.io/badge/Exp-6+yrs-orange) ![Recent Profile Views](https://komarev.com/ghpvc/?username=m97chahboun)
 ![GitHub User's stars](https://img.shields.io/github/stars/M97chahboun?style=social)
@@ -20,6 +19,8 @@ My hobby is contribute to open source projects 💙
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## About me
+- My hobby is contribute to open source projects 💙
+- Feel free to add me as reviewer on python, dart & typescript PR's
 - I’m currently working in [Majara](https://www.linkedin.com/company/majaracapital)
 - All my codes on [Zakat of knowledge](https://github.com/ZakatKnowledge) && [Our flutter Community](https://github.com/OurFlutterC)
 - I’m Interested in ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
