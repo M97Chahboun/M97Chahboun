@@ -76,10 +76,6 @@
 
 ![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=m97chahboun&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
 
-### Github Contribution Graph
-
-![Github Streaks](https://activity-graph.herokuapp.com/graph?username=m97chahboun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&)
-
 ### Github Achievements
 
 ![Github Streaks](https://github-profile-trophy.vercel.app/?username=m97chahboun&margin-w=5&theme=radical)
