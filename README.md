@@ -1,5 +1,3 @@
-<div style="background-color: rgb(50, 50, 50);">
-  
 ![assalamualaikum-png-44084](https://user-images.githubusercontent.com/69054810/223467885-09089c94-bbc9-4cdd-8754-0ba5e0c9c07f.png)
 
 
@@ -85,4 +83,4 @@
 ### Github Achievements
 
 ![Github Streaks](https://github-profile-trophy.vercel.app/?username=m97chahboun&margin-w=5&theme=radical)
-  </div>
+
