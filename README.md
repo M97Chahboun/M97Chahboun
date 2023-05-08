@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 ![assalamualaikum-png-44084](https://user-images.githubusercontent.com/69054810/223467885-09089c94-bbc9-4cdd-8754-0ba5e0c9c07f.png)
 
 <p>
