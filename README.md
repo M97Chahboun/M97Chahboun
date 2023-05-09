@@ -4,6 +4,8 @@
 
 ![assalamualaikum-png-44084](https://user-images.githubusercontent.com/69054810/223467885-09089c94-bbc9-4cdd-8754-0ba5e0c9c07f.png)
 
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=M97chahboun&data=repositories,stars,commits&theme=darkmode)
+
 <p>
 <a href="https://www.linkedin.com/in/m97chahboun"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://www.twitter.com/m97chahboun"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a><a href="https://www.youtube.com/@fluttercommunity-316"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a><a href="https://medium.com/@m97chahboun"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a><a href="https://dev.to/m97chahboun"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height=25></a><a href="https://wa.me/212708569068"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a><a href="https://telegram.me/m97chahboun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a><a href="https://discord.com/users/m97chahboun#4644"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 </p>
@@ -49,6 +51,7 @@
 - [puzzle](https://github.com/M97Chahboun/puzzle_hack) hack puzzle game for flutter hackthon (Flutter)
 - [Advent of code 2022](https://github.com/M97Chahboun/advent_of_code_2022) Solve [Advent of code puzzles](https://adventofcode.com/2022/about) (native)
 - [Navigation Bar Bro](https://pub.dev/packages/navigationbar_bro) A Flutter package for easy implementation of navigation bar with infinity of pages. (flutter)
+
 ### Python 💛
 - [McPython](https://github.com/M97Chahboun/McPython) simple editor of codes support python & dart language (PyQt5)
 - [API Maker](https://github.com/M97Chahboun/Api-Maker) Software for create API based on Django Rest framework by GUI (PyQt5 & Django)
@@ -82,6 +85,11 @@
 ### Github Streaks
 
 ![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=m97chahboun&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+
+### Top Languages
+
+![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M97chahboun)
+![repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M97chahboun)
 
 ### Github Achievements
 
