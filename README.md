@@ -42,32 +42,52 @@
 ## My ❤️ Open source ❤️ Projects
 
 ### Dart 💙
-- [Controllable Widget](https://github.com/M97Chahboun/controllable_widget) Package for make widget controllable (Flutter)
-- [Github snitch](https://github.com/M97Chahboun/github_snitch) flutter package for report issues & proposals to project repo (Flutter)
-- [MVCRocket](https://github.com/JahezAcademy/mvc_rocket) flutter package for state managment & request (Flutter)
-- [Flutter CI/CD & Branching template](https://github.com/M97Chahboun/flutter_ci_cd) (Flutter)
-- [Rocket2Dart](https://github.com/JahezAcademy/rocket2dart) website for convert json data to model appropriate with MVCRocket package (Flutter)
-- [medill](https://github.com/M97Chahboun/medill) A minimalistic, easy backend framework for Dart (native)
-- [puzzle](https://github.com/M97Chahboun/puzzle_hack) hack puzzle game for flutter hackthon (Flutter)
-- [Advent of code 2022](https://github.com/M97Chahboun/advent_of_code_2022) Solve [Advent of code puzzles](https://adventofcode.com/2022/about) (native)
-- [Navigation Bar Bro](https://pub.dev/packages/navigationbar_bro) A Flutter package for easy implementation of navigation bar with infinity of pages. (flutter)
+
+![Controllable Widget](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget)
+
+![Github snitch](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch)
+
+![MVCRocket](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=mvc_rocket)
+
+![Flutter CI/CD & Branching template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd)
+
+![Rocket2Dart](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=rocket2dart)
+
+![medill](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=medill)
+
+![puzzle](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=puzzle_hack)
+
+![Advent of code 2022](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=advent_of_code_2022)
+
+![Navigation Bar Bro](https://github-readme-stats.vercel.app/api/pin/?username=OurFlutterC&repo=navigationbar_bro)
 
 ### Python 💛
-- [McPython](https://github.com/M97Chahboun/McPython) simple editor of codes support python & dart language (PyQt5)
-- [API Maker](https://github.com/M97Chahboun/Api-Maker) Software for create API based on Django Rest framework by GUI (PyQt5 & Django)
-- [McScrpGUI](https://github.com/M97Chahboun/McScrpGUI) Software for convert website to excel,csv format for scraping data easily (PyQt5)
-- [McScraping](https://github.com/M97Chahboun/McScraping) Python library for scraping data (native)
-- [Mailmerge](https://github.com/M97Chahboun/Mailmerge-with-pyqt5) Software for convert excel to forms (PyQt5)
-- [Traduction website](https://github.com/ZakatKnowledge/translateWebSiteWithDjango2) Traduction website support arabic to english and inverse (Django)
-- [Memorize game](https://github.com/ZakatKnowledge/MyGameWithPyQtInAndroid) My First game (Pyqt5)
-- [Landing page template](https://github.com/M97Chahboun/dj_landing_page_template) (Django)
+
+![McPython](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McPython)
+
+![API Maker](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Api-Maker)
+
+![McScrpGUI](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScrpGUI)
+
+![McScraping](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScraping)
+
+![Mailmerge](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Mailmerge-with-pyqt5)
+
+![Traduction website](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=translateWebSiteWithDjango2)
+
+![Memorize game](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=MyGameWithPyQtInAndroid)
+
+![Landing page template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=dj_landing_page_template)
 
 ### Ruby ❤️
-- [Fastlane plugin](https://github.com/M97Chahboun/fastlane-plugin-flutter_bump_version) for bump flutter project version
+
+![Fastlane plugin](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version)
 
 ### Typescript 💙
-- [Branch Timer](https://github.com/M97Chahboun/vscode-branch-timer) Vscode extension for track work duration on every branch (vscode extension API)
-- [Todo App](https://github.com/M97Chahboun/first-angular-project-todo) Todo App (Angular)
+
+![Branch Timer](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=vscode-branch-timer)
+
+![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=first-angular-project-todo)
 
 ### Github Details
 
