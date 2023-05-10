@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
 ![assalamualaikum-png-44084](https://user-images.githubusercontent.com/69054810/223467885-09089c94-bbc9-4cdd-8754-0ba5e0c9c07f.png)
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=M97chahboun&data=repositories,stars,commits)
@@ -43,51 +39,51 @@
 
 ### Dart 💙
 
-![Controllable Widget](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget)
+![Controllable Widget](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget&theme=github_dark_dimmed)
 
-![Github snitch](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch)
+![Github snitch](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch&theme=github_dark_dimmed)
 
-![MVCRocket](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=mvc_rocket)
+![MVCRocket](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=mvc_rocket&theme=github_dark_dimmed)
 
-![Flutter CI/CD & Branching template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd)
+![Flutter CI/CD & Branching template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd&theme=github_dark_dimmed)
 
-![Rocket2Dart](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=rocket2dart)
+![Rocket2Dart](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=rocket2dart&theme=github_dark_dimmed)
 
-![medill](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=medill)
+![medill](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=medill&theme=github_dark_dimmed)
 
-![puzzle](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=puzzle_hack)
+![puzzle](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=puzzle_hack&theme=github_dark_dimmed)
 
-![Advent of code 2022](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=advent_of_code_2022)
+![Advent of code 2022](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=advent_of_code_2022&theme=github_dark_dimmed)
 
-![Navigation Bar Bro](https://github-readme-stats.vercel.app/api/pin/?username=OurFlutterC&repo=navigationbar_bro)
+![Navigation Bar Bro](https://github-readme-stats.vercel.app/api/pin/?username=OurFlutterC&repo=navigationbar_bro&theme=github_dark_dimmed)
 
 ### Python 💛
 
-![McPython](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McPython)
+![McPython](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McPython&theme=github_dark_dimmed)
 
-![API Maker](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Api-Maker)
+![API Maker](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Api-Maker&theme=github_dark_dimmed)
 
-![McScrpGUI](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScrpGUI)
+![McScrpGUI](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScrpGUI&theme=github_dark_dimmed)
 
-![McScraping](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScraping)
+![McScraping](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScraping&theme=github_dark_dimmed)
 
-![Mailmerge](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Mailmerge-with-pyqt5)
+![Mailmerge](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Mailmerge-with-pyqt5&theme=github_dark_dimmed)
 
-![Traduction website](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=translateWebSiteWithDjango2)
+![Traduction website](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=translateWebSiteWithDjango2&theme=github_dark_dimmed)
 
-![Memorize game](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=MyGameWithPyQtInAndroid)
+![Memorize game](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=MyGameWithPyQtInAndroid&theme=github_dark_dimmed)
 
-![Landing page template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=dj_landing_page_template)
+![Landing page template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=dj_landing_page_template&theme=github_dark_dimmed)
 
 ### Ruby ❤️
 
-![Fastlane plugin](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version)
+![Fastlane plugin](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version&theme=github_dark_dimmed)
 
 ### Typescript 💙
 
-![Branch Timer](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=vscode-branch-timer)
+![Branch Timer](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=vscode-branch-timer&theme=github_dark_dimmed)
 
-![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=first-angular-project-todo)
+![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=first-angular-project-todo&theme=github_dark_dimmed)
 
 ### Github Details
 
