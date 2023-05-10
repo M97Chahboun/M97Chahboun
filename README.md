@@ -39,13 +39,13 @@
 
 ### Dart 💙
 
-![Controllable Widget](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget&theme=github_dark_dimmed)
-
-![Github snitch](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch&theme=github_dark_dimmed)
+![Flutter CI/CD & Branching template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd&theme=github_dark_dimmed)
 
 ![MVCRocket](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=mvc_rocket&theme=github_dark_dimmed)
 
-![Flutter CI/CD & Branching template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd&theme=github_dark_dimmed)
+![Github snitch](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch&theme=github_dark_dimmed)
+
+![Controllable Widget](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget&theme=github_dark_dimmed)
 
 ![Rocket2Dart](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=rocket2dart&theme=github_dark_dimmed)
 
