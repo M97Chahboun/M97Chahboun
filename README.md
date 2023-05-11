@@ -39,51 +39,49 @@
 
 ### Dart 💙
 
-![Flutter CI/CD & Branching template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd&theme=github_dark_dimmed)
+<a href="https://github.com/M97Chahboun/flutter_ci_cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd&theme=github_dark_dimmed"></a>
 
-![MVCRocket](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=mvc_rocket&theme=github_dark_dimmed)
+<a href="https://github.com/JahezAcademy/mvc_rocket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=mvc_rocket&theme=github_dark_dimmed"></a>
 
-![Github snitch](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/github_snitch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch&theme=github_dark_dimmed"></a>
 
-![Controllable Widget](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/controllable_widget"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget&theme=github_dark_dimmed"></a>
 
-![Rocket2Dart](https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=rocket2dart&theme=github_dark_dimmed)
+<a href="https://github.com/JahezAcademy/rocket2dart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=rocket2dart&theme=github_dark_dimmed"></a>
 
-![medill](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=medill&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/medill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=medill&theme=github_dark_dimmed"></a>
 
-![puzzle](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=puzzle_hack&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/puzzle_hack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=puzzle_hack&theme=github_dark_dimmed"></a>
 
-![Advent of code 2022](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=advent_of_code_2022&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/advent_of_code_2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=advent_of_code_2022&theme=github_dark_dimmed"></a>
 
-![Navigation Bar Bro](https://github-readme-stats.vercel.app/api/pin/?username=OurFlutterC&repo=navigationbar_bro&theme=github_dark_dimmed)
+<a href="https://github.com/OurFlutterC/navigationbar_bro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OurFlutterC&repo=navigationbar_bro&theme=github_dark_dimmed"></a>
 
 ### Python 💛
 
-![McPython](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McPython&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/McPython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McPython&theme=github_dark_dimmed"></a>
 
-![API Maker](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Api-Maker&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/Api-Maker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Api-Maker&theme=github_dark_dimmed"></a>
 
-![McScrpGUI](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScrpGUI&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/McScrpGUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScrpGUI&theme=github_dark_dimmed"></a>
 
-![McScraping](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScraping&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/McScraping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McScraping&theme=github_dark_dimmed"></a>
 
-![Mailmerge](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Mailmerge-with-pyqt5&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/Mailmerge-with-pyqt5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Mailmerge-with-pyqt5&theme=github_dark_dimmed"></a>
+<a href="https://github.com/ZakatKnowledge/translateWebSiteWithDjango2"><img src="(https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=translateWebSiteWithDjango2&theme=github_dark_dimmed"></a>
 
-![Traduction website](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=translateWebSiteWithDjango2&theme=github_dark_dimmed)
+<a href="https://github.com/ZakatKnowledge/MyGameWithPyQtInAndroid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=MyGameWithPyQtInAndroid&theme=github_dark_dimmed"></a>
 
-![Memorize game](https://github-readme-stats.vercel.app/api/pin/?username=ZakatKnowledge&repo=MyGameWithPyQtInAndroid&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/dj_landing_page_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=dj_landing_page_template&theme=github_dark_dimmed"></a>
 
-![Landing page template](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=dj_landing_page_template&theme=github_dark_dimmed)
 
 ### Ruby ❤️
-
-![Fastlane plugin](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/fastlane-plugin-flutter_bump_version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version&theme=github_dark_dimmed"></a>
 
 ### Typescript 💙
+<a href="https://github.com/M97chahboun/vscode-branch-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=vscode-branch-timer&theme=github_dark_dimmed"></a>
 
-![Branch Timer](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=vscode-branch-timer&theme=github_dark_dimmed)
-
-![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=first-angular-project-todo&theme=github_dark_dimmed)
+<a href="https://github.com/M97chahboun/first-angular-project-todo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=first-angular-project-todo&theme=github_dark_dimmed"></a>
 
 ### Github Details
 
