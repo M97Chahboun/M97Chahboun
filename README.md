@@ -48,6 +48,8 @@
 
 <a href="https://github.com/M97chahboun/github_snitch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=github_snitch&theme=github_dark_dimmed"></a>
 
+<a href="https://github.com/M97Chahboun/rocket_timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=rocket_timer&theme=github_dark_dimmed"></a>
+
 <a href="https://github.com/M97chahboun/controllable_widget"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=controllable_widget&theme=github_dark_dimmed"></a>
 
 <a href="https://github.com/JahezAcademy/rocket2dart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=rocket2dart&theme=github_dark_dimmed"></a>
