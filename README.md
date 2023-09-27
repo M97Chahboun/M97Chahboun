@@ -40,7 +40,7 @@
 
 ## I Challenge you 🙃
 
-1. Open this [puzzle game](puzzle-c4d7d.web.app/#/)
+1. Open this [puzzle game](https://puzzle-c4d7d.web.app/#/)
 2. Try to complete puzzle for get a unique-key
 3. Share with me the key as win proof
 4. Based on duration i will give you gift
