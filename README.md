@@ -31,26 +31,41 @@
 ## About me
 - My hobby is contribute to open source projects 💙
 - I’m currently working in [Majara](https://www.linkedin.com/company/majaracapital)
+- Founder of [Bixat.dev](http://bixat.dev)
 - Ask me about Mobile, Web and Desktop development, I am happy to help 🤝
 - You can reach me via [Twitter](https://twitter.com/M97Chahboun), [LinkedIn](https://www.linkedin.com/in/m97chahboun), [Facebook](https://www.facebook.com/m97chahboun) or [Mail](mailto:mchahboun@majaracapital.com)
 - Currently Learning Machine Learning
 
 ---
 
-## I Challenge you 🙃
+## 🔥 [Bixat.dev Products](http://bixat.dev/products)
 
-1. Open this [puzzle game](https://puzzle-c4d7d.web.app/#/)
-2. Try to complete puzzle for get a unique-key
-3. Share with me the key as win proof
-4. Based on duration i will give you gift
+[Memorize The Quran](https://bixat.dev/products/quran)
+  - An innovative application designed to assist in the memorization of the Quran. With features such as reading and listening recitations, organizing memorized parts via kanban, and the ability to schedule reminders.
 
-You can get source code of puzzle game on my repos
+
+[RustFly](https://bixat.dev/products/rustfly)
+  - Rustfly allows users to control their desktop mouse and keyboard using a mobile device. It features two modes: touch and sensor for versatile control
+
+
+[WorkspaceX](https://bixat.dev/products/workspacex)
+  - Effortlessly save and open workspaces with a single click. Streamline your workflow, switch between tasks instantly, and regain control of your productivity.
+
+
+[EyesCare](https://bixat.dev/products/eyescare)
+  - A light-weight application following 20 rule adherence for optimum eye health. It can remind you to take a break to protect your eyes, supporting all desktop platforms.
+
+
+
+
 
 ## My ❤️ Open source ❤️ Projects
 
 ### Dart 💙
 
 <a href="https://github.com/M97Chahboun/flutter_ci_cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=flutter_ci_cd&theme=github_dark_dimmed"></a>
+
+<a href="https://github.com/bixat/flexible_wrap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bixat&repo=flexible_wrap&theme=github_dark_dimmed"></a>
 
 <a href="https://github.com/JahezAcademy/mvc_rocket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahezAcademy&repo=mvc_rocket&theme=github_dark_dimmed"></a>
 
@@ -72,6 +87,10 @@ You can get source code of puzzle game on my repos
 
 ### Python 💛
 
+<a href="https://github.com/M97Chahboun/django_kpi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97Chahboun&repo=django_kpi&theme=github_dark_dimmed"></a>
+
+<a href="https://github.com/bixat/django_icon_picker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bixat&repo=django_icon_picker&theme=github_dark_dimmed"></a>
+
 <a href="https://github.com/M97chahboun/McPython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=McPython&theme=github_dark_dimmed"></a>
 
 <a href="https://github.com/M97chahboun/Api-Maker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Api-Maker&theme=github_dark_dimmed"></a>
@@ -89,8 +108,8 @@ You can get source code of puzzle game on my repos
 
 <a href="https://github.com/M97Chahboun/Arabic_machine_learning_basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Arabic_machine_learning_basics&theme=github_dark_dimmed"></a>
 
-
 ### Ruby ❤️
+
 <a href="https://github.com/M97chahboun/fastlane-plugin-flutter_bump_version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version&theme=github_dark_dimmed"></a>
 
 ### Typescript 💙
