@@ -108,14 +108,19 @@
 
 <a href="https://github.com/M97Chahboun/Arabic_machine_learning_basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=Arabic_machine_learning_basics&theme=github_dark_dimmed"></a>
 
-### Ruby ❤️
-
-<a href="https://github.com/M97chahboun/fastlane-plugin-flutter_bump_version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version&theme=github_dark_dimmed"></a>
-
 ### Typescript 💙
+
+<a href="https://github.com/bixat/bixat-chip"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bixat&repo=bixat-chip&theme=github_dark_dimmed"></a>
+
+<a href="https://github.com/bixat/bixat-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bixat&repo=bixat-portfolio&theme=github_dark_dimmed"></a>
+
 <a href="https://github.com/M97chahboun/vscode-branch-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=vscode-branch-timer&theme=github_dark_dimmed"></a>
 
 <a href="https://github.com/M97chahboun/first-angular-project-todo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=first-angular-project-todo&theme=github_dark_dimmed"></a>
+
+### Ruby ❤️
+
+<a href="https://github.com/M97chahboun/fastlane-plugin-flutter_bump_version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version&theme=github_dark_dimmed"></a>
 
 ### Github Details
 
