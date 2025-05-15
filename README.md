@@ -1,6 +1,6 @@
 ![assalamualaikum-png-44084](https://user-images.githubusercontent.com/69054810/223467885-09089c94-bbc9-4cdd-8754-0ba5e0c9c07f.png)
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://ummaty.org/donate/)
+<a href="https://ummaty.org/gaza"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="support-palestine-banner"></img></a>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=M97chahboun&data=repositories,stars,commits)
 
