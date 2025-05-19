@@ -122,6 +122,10 @@
 
 <a href="https://github.com/M97chahboun/fastlane-plugin-flutter_bump_version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=fastlane-plugin-flutter_bump_version&theme=github_dark_dimmed"></a>
 
+### Rust 🖤
+
+<a href="https://github.com/M97chahboun/nexsh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M97chahboun&repo=nexsh&theme=github_dark_dimmed"></a>
+
 ### Github Details
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m97chahboun&theme=github_dark)
