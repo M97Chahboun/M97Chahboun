@@ -56,7 +56,8 @@
   - A light-weight application following 20 rule adherence for optimum eye health. It can remind you to take a break to protect your eyes, supporting all desktop platforms.
 
 
-
+[NexSh](https://bixat.dev/products/nexsh)
+  - A next-generation AI-powered shell using Google Gemini. Effortlessly interact with your system using natural language commands.
 
 
 ## My ❤️ Open source ❤️ Projects
